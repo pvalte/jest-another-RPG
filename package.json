@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pvalte/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/pvalte/jest-another-RPG#readme"
+  "homepage": "https://github.com/pvalte/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
